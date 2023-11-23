@@ -19,7 +19,7 @@ Este proyecto marcó un avance significativo en mi portafolio, ya que anteriorme
 
 ## Problemas
 
-### Dificulta de instalación:
+### Dificultades de la instalación:
 
 #### Problemas con create-react-app:
 
