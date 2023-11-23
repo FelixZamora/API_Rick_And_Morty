@@ -1,0 +1,75 @@
+#cajasHome {
+    border: 2px solid #97ce4c;
+    animation: rotate-border 5s linear infinite;
+  }
+  
+  @keyframes rotate-border {
+    0% {
+      border-color: #99ff0b;
+    }
+    25% {
+        border-color: #3e029e;
+      }
+    50% {
+      border-color: #97ce4c;
+    }
+    75% {
+        border-color: #1f8083;
+      }
+    100% {
+      border-color: #97ce4c;
+    }
+  }
+
+  #barra{
+    width: 100%;
+    margin-top: 15px;
+    padding: 5px;
+    border: 2px solid #97ce4c;
+    animation: rotate-border 5s linear infinite;
+    border-radius: 5px;
+  }
+
+  #barra-abajo{
+    width: 100%;
+    padding: 5px;
+    border: 2px solid #97ce4c;
+    animation: rotate-border 5s linear infinite;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+ /* Botón base */
+
+#btn {
+    padding: 10px 15px;
+    color: black;
+    text-decoration: double !important;
+    background: white;
+    border: 2px solid #97ce4c;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 5s ease;
+  
+  }
+  
+  /* Aplicar la animación al botón */
+  
+  #btn {
+    animation: color-change 1s infinite linear;
+  }
+
+  #imgGithub{
+    width: 50px;
+    height: 45px;
+    border: 2px solid #97ce4c;
+    border-radius: 5px;
+  }
+
+  header{
+    background-image: url();
+  }
+  mark{
+    background-color: #97ce4c !important;
+    color: black !important;
+  }
